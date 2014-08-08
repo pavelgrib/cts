@@ -1,6 +1,7 @@
 #include "stdio.h"
 
-int main(char ** args)
+
+int main(int argc, char ** args)
 {
 	printf("hello");
 }
